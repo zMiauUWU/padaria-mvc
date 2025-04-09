@@ -20,5 +20,5 @@ Para cadastrar produtos, é necessário estar autenticado.
 ```json
 {
   "usuario": "admin",
-  "senha": "1234"
+  "senha": "123456"
 }
